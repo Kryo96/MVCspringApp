@@ -7,6 +7,12 @@
 <title>La mia prima (e forse ultima) jsp</title>
 </head>
 <body>
- 	Welcome MARASCIUOLO
+
+    <form action = "add">
+        enter first number : <input type ="text"  name = "num1"> <br>
+        enter second number : <input type="text" name = "num2"> <br>
+      <input type = "submit">
+    </form>
+
 </body>
 </html>
