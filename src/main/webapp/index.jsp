@@ -8,9 +8,9 @@
 </head>
 <body>
 
-    <form action = "add">
-        enter first number : <input type ="text"  name = "num1"> <br>
-        enter second number : <input type="text" name = "num2"> <br>
+    <form action = "addAlien">
+        enter alien id: <input type ="text"  name = "id"> <br>
+        enter alien name : <input type="text" name = "name"> <br>
       <input type = "submit">
     </form>
 
