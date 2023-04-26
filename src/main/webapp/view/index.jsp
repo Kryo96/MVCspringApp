@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <form action = "addAlien">
+    <form action = "addAlien" method = "post">
         enter alien id: <input type ="text"  name = "id"> <br>
         enter alien name : <input type="text" name = "name"> <br>
       <input type = "submit">
